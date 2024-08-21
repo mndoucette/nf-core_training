@@ -1,4 +1,4 @@
-# nf-core/nfpracticum: Citations
+# nf-core_training/nfpracticum: Citations
 
 ## [nf-core](https://pubmed.ncbi.nlm.nih.gov/32055031/)
 
@@ -9,6 +9,9 @@
 > Di Tommaso P, Chatzou M, Floden EW, Barja PP, Palumbo E, Notredame C. Nextflow enables reproducible computational workflows. Nat Biotechnol. 2017 Apr 11;35(4):316-319. doi: 10.1038/nbt.3820. PubMed PMID: 28398311.
 
 ## Pipeline tools
+- [fastp](https://github.com/OpenGene/fastp)
+
+  > Chen S. Ultrafast one-pass FASTQ data preprocessing, quality control, and deduplication using fastp. Imeta. 2023 May 8;2(2 :e107. doi: 10.1002/imt2.107. PMID: 38868435; PMCID: PMC10989850.
 
 - [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 
